@@ -88,7 +88,7 @@ defaults:
       type: posts
     values:
       layout: Post
-      permalink: /post/:date/:title
+      permalink: /post/:title
       content-type: post
   - scope:
       path: ""
